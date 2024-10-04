@@ -96,6 +96,3 @@ The project includes an implementation of the **best-fit bin packing algorithm**
 - [Java Lambda Expressions with Collections](https://www.geeksforgeeks.org/java-lambda-expression-with-collections/)
 - [Bin Packing Problem](https://www.geeksforgeeks.org/bin-packing-problem-minimize-number-of-used-bins/)
 
----
-
-In the "UML Diagram" and "Console Output" sections, replace the placeholders with actual image paths if you upload the images to your GitHub repository.
